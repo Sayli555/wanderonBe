@@ -1,4 +1,4 @@
-# Wanderon
+# Secure User Authentication System
 
 ## You can find Frontend Code on this Repo
 https://github.com/Sayli555/wanderonfe
