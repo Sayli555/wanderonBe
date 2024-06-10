@@ -12,6 +12,13 @@ https://drive.google.com/file/d/1ONZ38IaK9oIPuU_e9Cw1pZAwkjOKY7uB/view?usp=shari
 ## Deployed App
 
  Frontend: https://wanderonfe.vercel.app/
+
+## Technology Stack
+
+List and provide a brief overview of the technologies used in the project.
+- Node.js
+- Express.js
+- MongoDB
  
 ## Features
 
@@ -56,11 +63,6 @@ you have to pass jwt for authorisation
 4. Logout
 if you logout , you cant access private route ,you have to login again
 <img src="https://github.com/Sayli555/project-images/blob/master/wonderonbe4.png?raw=true"/>
-6. if you already register you can login
-   
-## Technology Stack
 
-List and provide a brief overview of the technologies used in the project.
-- Node.js
-- Express.js
-- MongoDB
+   
+
