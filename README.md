@@ -51,7 +51,7 @@ after login it create jwt token for user
 
 3. Private page(Product) :
 you have to pass jwt for authorisation
-<img src="https://github.com/Sayli555/project-images/blob/master/wonderonbe3.png?raw=true"/>
+<img src="https://github.com/Sayli555/project-images/blob/master/wonderonbe33.png?raw=true"/>
 
 4. Logout
 if you logout , you cant access private route ,you have to login again
