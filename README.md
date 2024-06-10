@@ -21,8 +21,8 @@ List and provide a brief overview of the technologies used in the project.
 - MongoDB
 
 ## test credentials for login 
-email - test@test.com
-password - Test@12345
+- email - test@test.com
+- password - Test@12345
  
 ## Features
 
