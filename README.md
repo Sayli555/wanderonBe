@@ -19,6 +19,10 @@ List and provide a brief overview of the technologies used in the project.
 - Node.js
 - Express.js
 - MongoDB
+
+## test credentials for login 
+email - test@test.com
+password - Test@12345
  
 ## Features
 
